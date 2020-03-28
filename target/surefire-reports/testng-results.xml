@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="61" started-at="2020-03-28T17:37:58Z" finished-at="2020-03-28T17:37:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="61" started-at="2020-03-28T17:37:58Z" finished-at="2020-03-28T17:37:58Z">
+      <class name="com.test.TestProject.Test2">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.test.TestProject.Test2@1a407d53]" name="test" duration-ms="1" started-at="2020-03-28T23:07:58Z" finished-at="2020-03-28T23:07:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.test.TestProject.Test2 -->
+      <class name="com.test.TestProject.Test3">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.test.TestProject.Test3@64616ca2]" name="test" duration-ms="1" started-at="2020-03-28T23:07:58Z" finished-at="2020-03-28T23:07:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.test.TestProject.Test3 -->
+      <class name="com.test.TestProject.Test1">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.test.TestProject.Test1@3b81a1bc]" name="test1" duration-ms="24" started-at="2020-03-28T23:07:58Z" finished-at="2020-03-28T23:07:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.test.TestProject.Test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

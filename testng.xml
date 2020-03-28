@@ -8,6 +8,7 @@
       <class name="com.test.TestProject.AppTest"/>
       <class name="com.test.TestProject.Test2"></class>
       <class name="com.test.TestProject.Test3"></class>
+      <class name="com.test.TestProject.Test4"></class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
